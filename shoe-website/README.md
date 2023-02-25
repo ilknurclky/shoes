@@ -13,5 +13,5 @@ HTML5 ve CSS3 ile animasyon teknolojileri kullanildi.
 
 <h2> Ekran Videosu </h2>
 
-<video src=ShoeWebsitevideo.mp4 controls=controls>
+<video src=ShoeWebsitevideo.mp4 controls=controls width="360" height="320">
 </video>
