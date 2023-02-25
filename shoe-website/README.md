@@ -8,7 +8,7 @@ HTML5 ve CSS3 ile animasyon teknolojileri kullanildi.
 
 <h2> Ekran Gifi</h2>
 
-![](PhotoToGIF.gif photoToGIFf.gif)
+![](PhotoToGIF.gif)
 
 
 <h2> Ekran Videosu </h2>
